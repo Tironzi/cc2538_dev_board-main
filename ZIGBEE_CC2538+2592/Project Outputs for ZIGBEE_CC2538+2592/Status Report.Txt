@@ -1,0 +1,25 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [ZIGBEE_CC2538+2592.PrjPcb]
+   Generated File[[CC2538+CC2592]_Copper_Signal_Top.gbr]
+   Generated File[[CC2538+CC2592]_Copper_Signal_Bot.gbr]
+   Generated File[[CC2538+CC2592]_Pads_Bot.gbr]
+   Generated File[[CC2538+CC2592]_Pads_Top.gbr]
+   Generated File[[CC2538+CC2592]_Legend_Top.gbr]
+   Generated File[[CC2538+CC2592]_Legend_Bot.gbr]
+   Generated File[[CC2538+CC2592]_Soldermask_Top.gbr]
+   Generated File[[CC2538+CC2592]_Soldermask_Bot.gbr]
+   Generated File[[CC2538+CC2592]_Paste_Top.gbr]
+   Generated File[[CC2538+CC2592]_Paste_Bot.gbr]
+   Generated File[[CC2538+CC2592]_Keep-out.gbr]
+   Generated File[[CC2538+CC2592]_Profile.gbr]
+   Generated File[[CC2538+CC2592]_NPTH_Drill.gbr]
+   Generated File[[CC2538+CC2592]_PTH_Drill.gbr]
+   Generated File[[CC2538+CC2592].EXTREP]
+   Generated File[[CC2538+CC2592].REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 11:07:24 PM On 4/22/2025

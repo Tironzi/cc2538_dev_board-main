@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=[01] - COVER PAGE.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[01] - COVER PAGE.SchDoc|FileName=[02] - BLOCK DIAGRAM.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[01] - COVER PAGE.SchDoc|FileName=[03] - POWER DIAGRAM.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=[01] - COVER PAGE.SchDoc|FileName=[04] - CC2538+CC2592.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=[01] - COVER PAGE.SchDoc|FileName=[05] - RTC.SchDoc|SheetNumber=5

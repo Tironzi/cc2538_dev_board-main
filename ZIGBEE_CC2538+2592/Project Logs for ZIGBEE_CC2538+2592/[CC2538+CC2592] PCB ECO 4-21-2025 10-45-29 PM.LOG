@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetU2_16 Pin=U3-4
+Removed Pin From Net: NetName=NetU2_15 Pin=U3-6
+Added Pin To Net: NetName=NetU2_15 Pin=U3-4
+Added Pin To Net: NetName=NetU2_16 Pin=U3-6
+Added Member To Class: ClassName=[04] - CC2538+CC2592 Member=Component R12 0
